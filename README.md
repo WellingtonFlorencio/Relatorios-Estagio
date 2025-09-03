@@ -1,6 +1,4 @@
-Perfeito 👌 Vou montar um **README.md** pronto para você colar no seu repositório junto com o PDF. Assim ele vai ficar mais organizado e profissional:
 
----
 
 # 📊 Relatório de Análise de Vagas – Estágio em Ciência de Dados
 
